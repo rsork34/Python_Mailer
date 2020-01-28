@@ -8,7 +8,7 @@ from email import encoders
 # Send/Recieve attachments at this email
 RECIEVE_EMAIL = ''
 SENDER_EMAIL = ''
-SENDER_PASSWORD = "123qwe123qwe!"
+SENDER_PASSWORD = ""
 
 # Current Path
 curPath = os.getcwd()
